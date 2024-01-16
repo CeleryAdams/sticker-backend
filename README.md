@@ -1,0 +1,1 @@
+simple Flask-based API, providing endpoints to add and retrieve sticker sets from a PostgreSQL database
